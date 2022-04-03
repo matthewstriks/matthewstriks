@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewstriks
-- 👀 I’m interested in ... Web development 
-- 🌱 I’m currently learning ... XCode
+- 👀 I’m interested in ... Web development, Desktop Applications, and IOS 
+- 🌱 I’m currently learning ... XCode, NodeJS, ElectronJS
 - 💞️ I’m looking to collaborate on ... Web based projects
 - 📫 How to reach me ... matthew@striks.com
 
